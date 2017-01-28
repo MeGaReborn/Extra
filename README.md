@@ -22,14 +22,14 @@
 cd $HOME
 git clone https://github.com/bibakbg/Bang-TG.git
 cd Bang-TG
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh # Enter a phone number & confirmation code.
+chmod +x bang.sh
+./bang.sh install
+./bang.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/bibakbg/Bang-TG.git && cd Bang-TG && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/bibakbg/Bang-TG.git && cd Bang-TG && chmod +x bang.sh && ./bang.sh install && ./bang.sh
 ```
 
 * * *
