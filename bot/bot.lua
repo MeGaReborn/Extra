@@ -78,14 +78,16 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "banhammer",
-    "groupmanager",
-    "msg-checks",
-    "plugins",
-    "tools",
-    "me",
-    "expiretime",
-    "ping"
+    "BanHammer",
+    "GroupManager",
+    "MsgChecks",
+    "Plugins",
+    "Tools",
+    "Me",
+    "ExpireTime",
+    "Ping",
+    "SendPlug",
+    "Filter"
  },
     sudo_users = {304107094},
     admins = {},
