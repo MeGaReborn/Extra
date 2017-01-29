@@ -93,7 +93,14 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》@BanG_TeaM
+    info_text = [[ 》 *Beyond Soures*
+》 *EDit By* `BanG TeaM :D`
+
+》 _Channel : _
+》 @BanG_TeaM
+》 _GitHab Link :_
+》 https://github.com/bibakbg/Bang-TG
+》 `Founder` [ @Bibak_BG ]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
