@@ -64,8 +64,7 @@ function save_data(filename, data)
 end
 
 function match_plugins(msg)
-  for name, plugin in pairs(plugins) do
-    match_plugin(plugin, name, msg)
+  for name, plugin in pairs(plugins) do    match_plugin(plugin, name, msg)
   end
 end
 
@@ -87,7 +86,8 @@ function create_config( )
     "ExpireTime",
     "Ping",
     "SendPlug",
-    "Filter"
+    "Filter",
+    "MyInfo"
  },
     sudo_users = {304107094},
     admins = {},
