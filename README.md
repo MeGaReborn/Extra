@@ -1,4 +1,4 @@
-# [BangTeaM](https://telegram.me/bang_team)
+ # [BangTeaM](https://telegram.me/bang_team)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -46,7 +46,7 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
   }
 ```
 add your bot ID at line 4 and add your ID at line 87 in bot.lua
-add your ID at line 2 in tools.lua
+add your ID at line 2 in Tools.lua
 Then restart the bot.
 
-
+# [BibaK](https://telegram.me/Bibak_BG)
