@@ -1,4 +1,5 @@
- # [BangTeaM](https://telegram.me/bang_team)
+ #
+ [BangTeaM](https://telegram.me/bang_team)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -50,3 +51,6 @@ add your ID at line 2 in Tools.lua
 Then restart the bot.
 
 # [BibaK](https://telegram.me/Bibak_BG)
+
+### هر گونه مشکلی داشت به ساپورت مراجعه کنید
+[Support BanG TG](https://t.me/joinchat/AAAAAEJEWbuiI2275BRIDg)
