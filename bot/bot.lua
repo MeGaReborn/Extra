@@ -94,7 +94,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》 Beyond Soures
+    info_text = [[》 Extra Soures
 
 》 EDit By BanG TeaM :D
 
@@ -102,13 +102,11 @@ function create_config( )
 
 》 Channel :
 
-》 @BanG_TeaM
+》 @Botreborn_ch
 
 》 GitHab Link :
 
-》 https://github.com/bibakbg/Bang-TG
-
-》 Founder [ @Bibak_BG ]
+》 https://github.com/MeGaReborn/Extra
 ]],
   }
   serialize_to_file(config, './data/config.lua')
