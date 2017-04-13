@@ -1,5 +1,5 @@
 
-# [BangTeaM](https://telegram.me/bang_team)
+# [MegaCli](https://telegram.me/BOTREBORN_CH)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -24,13 +24,13 @@ cd $HOME
 git clone https://github.com/bibakbg/Bang-TG.git
 cd Bang-TG
 chmod +x bang.sh
-./bang.sh install
-./bang.sh # Enter a phone number & confirmation code.
+./Extra.sh install
+./Extra.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/bibakbg/Bang-TG.git && cd Bang-TG && chmod +x bang.sh && ./bang.sh install && ./bang.sh
+cd $HOME && git clone https://github.com/MeGaReborn/Extra.git && cd Bang-TG && chmod +x Extra.sh && ./Extra.sh install && ./Extra.sh
 ```
 
 * * *
@@ -52,7 +52,5 @@ Then restart the bot.
 
 — اضافه کردن ID ربات خود را در خط 4 و اضافه کردن ID خود را در خط 87 در bot.lua اضافه کردن ID خود را در خط 2 در Tools.lua سپس ربات راه اندازی مجدد شود.
 
-# [BibaK](https://telegram.me/Bibak_BG)
-
 ### هر گونه مشکلی داشت به ساپورت مراجعه کنید
-# [Support BanG TG](https://t.me/joinchat/AAAAAEJEWbuiI2275BRIDg)
+# [Support](https://t.me/joinchat/AAAAAEJT-GRJmoNvIpVPdQ)
